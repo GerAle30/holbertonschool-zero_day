@@ -1,1 +1,2 @@
-bienvenido a mik read me 
+bienvenido a mi read me 
+segundo trabajo 
